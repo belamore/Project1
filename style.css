@@ -1,0 +1,30 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(255, 235, 235);
+  text-align: center;
+}
+
+p {
+  font-size: 19px;
+
+}
+
+canvas {
+  /* padding-top: 50px; */
+  display: block;
+  align-items: center;
+  margin: auto;
+}
+
+button {
+  font-size: 18px;
+  border-radius: 10px;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #ddd;
+}
