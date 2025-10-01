@@ -11,6 +11,10 @@ p {
 
 }
 
+h2{
+  padding-top: 30px;
+}
+
 canvas {
   /* padding-top: 50px; */
   display: block;
