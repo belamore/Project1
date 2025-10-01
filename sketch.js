@@ -129,7 +129,7 @@ function setup() {
   randomizeButton.mousePressed(startStory);
 
   nextPanelButton = createButton('Next Panel');
-  nextPanelButton.position(width / 2 + 560, height - 100);
+  nextPanelButton.position(width / 2 + 530, height - 100);
   nextPanelButton.mousePressed(addPanel);
 
   startStory();

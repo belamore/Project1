@@ -16,6 +16,7 @@ canvas {
   display: block;
   align-items: center;
   margin: auto;
+  padding-bottom: 60px;
 }
 
 button {
